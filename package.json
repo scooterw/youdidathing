@@ -1,0 +1,24 @@
+{
+  "name": "youdidathing",
+  "version": "0.0.1",
+  "description": "You did a thing.",
+  "keywords": [],
+  "license": "MIT",
+  "author": "Scooter Wadsworth",
+  "maintainers": [
+    {
+      "name": "Scooter Wadsworth",
+      "email": "scooterwadsworth@gmail.com",
+      "web": "https://github.com/scooterw"
+    }
+  ],
+  "dependencies": {
+    "express": "3.2.0",
+    "mongoose": "3.6.8",
+    "socket.io": "0.9.14",
+    "handlebars": "1.0.10"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  }
+}
